@@ -1,2 +1,2 @@
-# THis file is intentionally messed up
-cas.server.name: [][]
+# This will make lohgin page show somehting unique
+cas.view.customLoginFormFields.showongit.messageBundleKey: If you see this text, that means you have load config from github
